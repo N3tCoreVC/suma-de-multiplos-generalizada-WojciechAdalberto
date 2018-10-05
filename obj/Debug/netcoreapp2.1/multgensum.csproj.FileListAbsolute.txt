@@ -1,0 +1,11 @@
+C:\Aplica\VSCore\multgensum\obj\Debug\netcoreapp2.1\multgensum.csprojAssemblyReference.cache
+C:\Aplica\VSCore\multgensum\obj\Debug\netcoreapp2.1\multgensum.csproj.CoreCompileInputs.cache
+C:\Aplica\VSCore\multgensum\obj\Debug\netcoreapp2.1\multgensum.AssemblyInfoInputs.cache
+C:\Aplica\VSCore\multgensum\obj\Debug\netcoreapp2.1\multgensum.AssemblyInfo.cs
+C:\Aplica\VSCore\multgensum\bin\Debug\netcoreapp2.1\multgensum.deps.json
+C:\Aplica\VSCore\multgensum\bin\Debug\netcoreapp2.1\multgensum.runtimeconfig.json
+C:\Aplica\VSCore\multgensum\bin\Debug\netcoreapp2.1\multgensum.runtimeconfig.dev.json
+C:\Aplica\VSCore\multgensum\bin\Debug\netcoreapp2.1\multgensum.dll
+C:\Aplica\VSCore\multgensum\bin\Debug\netcoreapp2.1\multgensum.pdb
+C:\Aplica\VSCore\multgensum\obj\Debug\netcoreapp2.1\multgensum.dll
+C:\Aplica\VSCore\multgensum\obj\Debug\netcoreapp2.1\multgensum.pdb
